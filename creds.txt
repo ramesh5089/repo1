@@ -1,2 +1,0 @@
-username = Ramesh
-pwd = 123
