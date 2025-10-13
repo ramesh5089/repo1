@@ -1,3 +1,5 @@
 Hello Ramesh
 added few lines
-Doing the third commit
+Doing the third commitgit 
+added come inputs
+for checking the diff
