@@ -1,3 +1,8 @@
 Admin service is added
+<<<<<<< HEAD
 Version3:Hello from main branch
 Version2:Hello from feature branch
+=======
+Version2:Hello from main branch
+Version3:Hello from feature branch
+>>>>>>> feature1
